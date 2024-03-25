@@ -1,6 +1,12 @@
 
 # Rapport
 
+Det första jag gjorde var att ändra namnet på appen från "Hello" till "Gnägg gnägg!".
+Detta gjorde jag genom att gå till strings.xml och skriva in "Gnägg gnägg!" på följande sätt:
+<string name="app_name">Gnägg gnägg!</string>
+
+För att ändra texten i 
+
 **Skriv din rapport här!**
 
 _Du kan ta bort all text som finns sedan tidigare_.
